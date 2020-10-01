@@ -22,6 +22,8 @@ public class Kontrahent {
         return nazwa;
     }
 
+    public String getNip() {return nip;}
+
     public void setNazwa(String nazwa) {
         this.nazwa = nazwa;
     }
